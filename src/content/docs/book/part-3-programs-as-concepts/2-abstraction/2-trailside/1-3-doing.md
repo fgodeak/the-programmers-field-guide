@@ -81,6 +81,6 @@ class Greeting
 We can see a few C# conventions in this example:
 
 * Method names are written in PascalCase.
-* Parameter, and local variabels, use camelCase.
+* Parameters and local variables use camelCase.
 
 :::
